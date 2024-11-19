@@ -9,8 +9,9 @@
   <a href = "mailto:guilherme.thrmatos@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail Badge"/>
   </a>
- <a href = "https://guithr.github.io/my-portfolio/">
-  <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"  target="_blank"alt="Github Badge"/>
+  <a href = "https://guithr.github.io/my-portfolio/">
+    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank" alt="Github Badge"/>
+  </a>
   <a href = "https://www.linkedin.com/in/guilherme-omatos/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
