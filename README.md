@@ -27,7 +27,7 @@ Sou um desenvolvedor em busca de iniciar minha carreira em Front e Back-End
 - 👩‍💻 Desenvolvedor com foco nas tecnologias: JavaScript / TypeScript / Angular / React
 
 - 🧠 Skills: <br><br>
-  💻 » Tenho experiência em desenvolvimento Front-End usando as tecnologias: HTML, CSS, JavaScript, TypeScript, Angular e React. <br>
+  💻 » Tenho experiência em desenvolvimento Front-End usando as tecnologias: HTML, CSS, JavaScript, Node.js, React. <br>
 
 ---
 
